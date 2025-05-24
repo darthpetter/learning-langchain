@@ -1,0 +1,4 @@
+openai_api_key.txt
+/persistence
+**/data_sources
+.ipynb_checkpoints
