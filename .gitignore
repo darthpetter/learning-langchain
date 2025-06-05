@@ -1,5 +1,6 @@
 openai_api_key.txt
 serp_api_key.txt
+password_sql.txt
 /persistence
 **/data_sources
 .ipynb_checkpoints
